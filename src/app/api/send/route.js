@@ -17,7 +17,7 @@ const fromEmail = process.env.FROM_EMAIL;
                 react:(
                     <>
                     <h1>{subject}</h1>;
-                    <p>Do not give Up Jay</p>
+                    <p>Kindly reach out to me at {email}</p>
                     <p>{message}</p>
                     </>
                 )
