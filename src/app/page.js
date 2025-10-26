@@ -3,7 +3,7 @@ import EmailSection from "./components/EmailSection";
 import Footer from "./components/Footer";
 import HeroSection from "./components/HeroSection";
 import Navbar from "./components/Navbar";
-import ProjectsSection from "./components/ProjectSection";
+import ProjectSection from "./components/ProjectSection";
 
 
 
@@ -14,7 +14,7 @@ export default function Home() {
       <div className="container  mx-auto px-12">
         <HeroSection />
         <AboutSection />
-        <ProjectsSection />
+        <ProjectSection />
         <EmailSection />
         </div>
         <Footer />
