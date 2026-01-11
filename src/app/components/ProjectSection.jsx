@@ -11,7 +11,7 @@ const projectsData = [
     description: "A web app to generate names for your projects",
     image: "/images/namie-it.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://name-it-app-nbev.vercel.app",
+    gitUrl: "https://github.com/lawalemma24/nameItApp",
     previewUrl: "https://name-it-app-nbev.vercel.app",
   },
   {
@@ -38,7 +38,7 @@ const projectsData = [
     description: "A mobile application for shopping cart functionality",
     image: "/images/cart.jpg",
     tag: ["All", "Mobile"],
-    gitUrl: "https://shopping-cart-blond-five-85.vercel.app",
+    gitUrl: "https://github.com/lawalemma24/ShoppingCart",
     previewUrl: "https://shopping-cart-blond-five-85.vercel.app",
   },
   {
@@ -52,7 +52,7 @@ const projectsData = [
   },
   {
     id: 6,
-    title: "Full-stack Roadmap",
+    title: "sample project",
     description: "Project 5 description",
     image: "/images/namie-it.jpg",
     tag: ["All", "Web"],
