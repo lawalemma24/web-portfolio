@@ -11,8 +11,8 @@ const projectsData = [
     description: "A web app to generate names for your projects",
     image: "/images/namie-it.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://name-it-app-nbev.vercel.app/",
-    previewUrl: "https://name-it-app-nbev.vercel.app/",
+    gitUrl: "https://name-it-app-nbev.vercel.app",
+    previewUrl: "https://name-it-app-nbev.vercel.app",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const projectsData = [
     image: "/images/shortify-app.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/lawalemma24/UrlWebsite.git",
-    previewUrl: "https://url-website-p59k.vercel.app/",
+    previewUrl: "https://url-website-p59k.vercel.app",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ const projectsData = [
     image: "/images/donjayautos.jpg",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/lawalemma24/donjaysite.git",
-    previewUrl: "https://donjayautoswebsite.netlify.app/",
+    previewUrl: "https://donjayautoswebsite.netlify.app",
   },
   {
     id: 4,
@@ -38,8 +38,8 @@ const projectsData = [
     description: "A mobile application for shopping cart functionality",
     image: "/images/cart.jpg",
     tag: ["All", "Mobile"],
-    gitUrl: "https://shopping-cart-blond-five-85.vercel.app/",
-    previewUrl: "https://shopping-cart-blond-five-85.vercel.app/",
+    gitUrl: "https://shopping-cart-blond-five-85.vercel.app",
+    previewUrl: "https://shopping-cart-blond-five-85.vercel.app",
   },
   {
     id: 5,
@@ -47,8 +47,8 @@ const projectsData = [
     description: "A simple note taking application",
     image: "/images/noteApp.jpg",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/lawalemma24/Note-App/",
-    previewUrl: "https://note-app-front-end-git-url-jaytechs-projects-e325c32a.vercel.app/",
+    gitUrl: "https://github.com/lawalemma24/Note-App",
+    previewUrl: "https://note-app-front-end-git-url-jaytechs-projects-e325c32a.vercel.app",
   },
   {
     id: 6,
